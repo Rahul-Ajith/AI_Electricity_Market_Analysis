@@ -107,9 +107,7 @@ Potential enhancements include:
 
 ## Author
 
-[Your Name]  
-[Your University]  
-[Date]
+Rahul Ajith  
 
 ## License
 
